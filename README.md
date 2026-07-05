@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/REPLACE_WITH_YOUR_BANNER.png" alt="Identity Governance"/>
+<img src="https://i.imgur.com/yR7aikW.png" alt="Identity Governance"/>
 </p>
 
 <h1>Entra ID — Identity Governance (SC-300 Lab 5)</h1>
